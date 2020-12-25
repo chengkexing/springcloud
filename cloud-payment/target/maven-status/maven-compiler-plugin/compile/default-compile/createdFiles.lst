@@ -1,0 +1,6 @@
+com\ruichuang\entity\Payment.class
+com\ruichuang\controller\PayMentController.class
+com\ruichuang\service\PaymentService.class
+com\ruichuang\mapper\PaymentMapper.class
+com\ruichuang\PaymentApplication.class
+com\ruichuang\res\R.class
