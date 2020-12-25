@@ -1,4 +1,4 @@
-package com.ruichuang.res;
+package com.ruichuang.springcloud.entitys;
 
 import lombok.Data;
 

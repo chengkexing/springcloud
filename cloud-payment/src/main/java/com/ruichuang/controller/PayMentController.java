@@ -1,8 +1,8 @@
 package com.ruichuang.controller;
 
 import com.ruichuang.entity.Payment;
-import com.ruichuang.res.R;
 import com.ruichuang.service.PaymentService;
+import com.ruichuang.springcloud.entitys.R;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

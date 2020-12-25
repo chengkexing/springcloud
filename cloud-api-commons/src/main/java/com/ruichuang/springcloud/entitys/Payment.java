@@ -1,4 +1,4 @@
-package com.ruichaung.entity;
+package com.ruichuang.springcloud.entitys;
 
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
